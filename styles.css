@@ -1,6 +1,7 @@
 /* Your CSS Code here. */
 .holder {
  	display: flex;
+	flex-direction: fullscreen;
 	justify-content: center;
 	align-item: center;
 }
